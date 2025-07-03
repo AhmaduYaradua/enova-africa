@@ -39,7 +39,7 @@ function Hero() {
           </div>
           <div className="flex gap-8">
             <div className="flex flex-col items-center w-fit">
-              <img src="pexels.jpg" className="md:h-[18rem] md:w-[20rem]" />
+              <img src="susarchi.jpg" className="md:h-[18rem] md:w-[20rem]" />
               <h1 className="mt-5 font-bold text-green-900">
                 Sustainable Architecture
               </h1>
@@ -49,7 +49,7 @@ function Hero() {
               </button>
             </div>
             <div className="flex flex-col items-center w-fit">
-              <img src="pexels.jpg" className="md:h-[18rem]  md:w-[20rem]" />
+              <img src="greencon.jpg" className="md:h-[18rem]  md:w-[20rem]" />
               <h1 className=" mt-5 font-bold text-green-900">
                 Green Consulting
               </h1>
